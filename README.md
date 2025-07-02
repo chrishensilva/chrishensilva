@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrishensilva
-- 👀 I’m interested in Ui/Ux,Graphic designing,Video editing,Audio Composing and animating
+- 👀 I’m interested in Ui/Ux,Graphic designing,Video editing,Audio Composing ,Web development, 3D rendering and Animating
 - 🌱 I’m currently learning in Faculty of Tecnological Studies,Departmant of ICT,University of vavuniya
 
 <!---
