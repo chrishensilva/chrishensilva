@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chrishensilva
 - 👀 I’m interested in Ui/Ux,Graphic designing,Video editing,Audio Composing ,Web development, 3D rendering, Application development and Animating
 - 🌱 I’m undergraduate in Faculty of Tecnological Studies,Departmant of ICT,University of vavuniya
-- 
 
 <!---
 chrishensilva/chrishensilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
